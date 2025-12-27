@@ -1,3 +1,3 @@
 x = input('введите строку')
-y =  x.count(' ')
+y = x.count(' ')
 print(y+1)
