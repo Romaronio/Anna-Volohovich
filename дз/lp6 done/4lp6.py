@@ -6,6 +6,6 @@ for n in range(1000):
         t=bin(((n%3)*3))[2:]
         s=s+t
     r=int(s,2)
-    if r<170:
+    if r <= 170:
         print(n, r)
 

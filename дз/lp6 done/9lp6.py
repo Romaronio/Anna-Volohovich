@@ -8,7 +8,7 @@ def ch(n):
 for n in range(1000):
     k=''
     s=ch(n)
-    if s[1:1]=='3':
+    if s[1:1] =='3':
         for i in s:
             if i=='0':
                 k+=i
