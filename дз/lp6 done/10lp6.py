@@ -5,6 +5,7 @@ def seven(n):
         n = n // 7
     return m
 
+
 for n in range(1000):
     k=''
     s=seven(n)
