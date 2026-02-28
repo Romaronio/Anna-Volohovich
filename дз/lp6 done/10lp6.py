@@ -24,8 +24,6 @@ for n in range(1000):
                 k+=i
             if i=='6':
                 k+=i
-            if i=='7':
-                k+=i
         k= '21'+k
     else:
         s= '1'+s[1:]+'36'
